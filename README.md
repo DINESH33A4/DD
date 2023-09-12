@@ -1,4 +1,4 @@
 # DD
 This is my first git repos.
 <br>
-Author - dinesh
+Author - dinesh(Apna college)
